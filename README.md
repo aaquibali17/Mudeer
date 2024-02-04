@@ -4,8 +4,11 @@ Mudeer, which means "manager" in Arabic, is a comprehensive student management s
 Key Features:
 
 User-friendly Interface: Mudeer offers an intuitive and easy-to-navigate interface for administrators to perform various tasks seamlessly.
+
 Student Profiles: Manage detailed student profiles including personal information, academic records, attendance, and more.
+
 Course Management: Easily create, update, and manage courses, assign instructors, and track course progress.
+
 Grading System: Efficiently manage grading and assessment tasks with customizable grading criteria and grade recording.
 
 Technologies Used:
